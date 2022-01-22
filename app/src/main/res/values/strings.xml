@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StateHandling</string>
+    <string name="get_user">Get User</string>
+</resources>
